@@ -14,7 +14,7 @@
 		<Item Name="Connection Check.vi" Type="VI" URL="../Connection Check.vi"/>
 		<Item Name="Error Handler.vi" Type="VI" URL="../Error Handler.vi"/>
 		<Item Name="MessageFormat1.ctl" Type="VI" URL="../MessageFormat1.ctl"/>
-		<Item Name="TMS_DEVEL.vi" Type="VI" URL="../../CORE2/Exercises/TDMS Logger and Reader/TMS_DEVEL.vi"/>
+		<Item Name="TDMS_DEVEL.vi" Type="VI" URL="../TDMS_DEVEL.vi"/>
 		<Item Name="WriteConsumerState.vi" Type="VI" URL="../WriteConsumerState.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
