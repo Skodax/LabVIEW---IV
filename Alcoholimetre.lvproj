@@ -13,8 +13,11 @@
 		<Item Name="Com_Base.vi" Type="VI" URL="../Com_Base.vi"/>
 		<Item Name="Connection Check.vi" Type="VI" URL="../Connection Check.vi"/>
 		<Item Name="Error Handler.vi" Type="VI" URL="../Error Handler.vi"/>
+		<Item Name="Graph.vi" Type="VI" URL="../Graph.vi"/>
+		<Item Name="GraphCom.vi" Type="VI" URL="../GraphCom.vi"/>
 		<Item Name="MessageFormat1.ctl" Type="VI" URL="../MessageFormat1.ctl"/>
 		<Item Name="WriteConsumerState.vi" Type="VI" URL="../WriteConsumerState.vi"/>
+		<Item Name="WriteToQueue2.vi" Type="VI" URL="../WriteToQueue2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
